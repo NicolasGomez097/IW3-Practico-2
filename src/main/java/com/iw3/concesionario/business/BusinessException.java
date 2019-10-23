@@ -1,4 +1,4 @@
-package com.iw3.restaurante.business;
+package com.iw3.concesionario.business;
 
 public class BusinessException extends Exception {
 
@@ -10,6 +10,10 @@ public class BusinessException extends Exception {
 
 	public BusinessException(String message) {
 		super(message);
+	}
+	
+	public void A() {
+		
 	}
 
 	public BusinessException(Throwable cause) {

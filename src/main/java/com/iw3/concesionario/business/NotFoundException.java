@@ -1,4 +1,4 @@
-package com.iw3.restaurante.business;
+package com.iw3.concesionario.business;
 
 public class NotFoundException extends Exception {
 
